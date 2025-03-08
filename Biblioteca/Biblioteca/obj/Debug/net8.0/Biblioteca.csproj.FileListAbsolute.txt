@@ -264,3 +264,7 @@ C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Bibliote
 C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.AssemblyReference.cache
 C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.Up2Date
+C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.staticwebassets.endpoints.json
+C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Matheus\Documents\Projetos\C#\Sistema-de-Biblioteca\Biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

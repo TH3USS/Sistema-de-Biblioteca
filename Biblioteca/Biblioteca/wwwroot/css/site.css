@@ -17,6 +17,101 @@ html {
   min-height: 100%;
 }
 
+/* Estilos gerais */
 body {
-  margin-bottom: 60px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #1877f2;
+    text-align: center;
+}
+
+/* Estilizando formulários */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    color: #333;
+}
+
+input, select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+    input[type="submit"] {
+        background-color: #1877f2;
+        color: white;
+        border: none;
+        cursor: pointer;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 5px;
+    }
+
+        input[type="submit"]:hover {
+            background-color: #166fe5;
+        }
+
+.btn-danger {
+    background-color: #f02849;
+}
+
+    .btn-danger:hover {
+        background-color: #d91c3a;
+    }
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #1877f2;
+    font-weight: bold;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* Estilizando tabelas */
+dl {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.dt {
+    font-weight: bold;
+    color: #555;
+}
+
+/* Estilo responsivo */
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
 }

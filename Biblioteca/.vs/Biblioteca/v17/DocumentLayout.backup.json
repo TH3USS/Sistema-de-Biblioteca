@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\views\\login\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\controllers\\createbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\createbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\sistema-de-biblioteca\\biblioteca\\biblioteca\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEDB2599-D001-4902-8A3E-01133F0C560D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,116 +13,35 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 390,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:34:32.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:23:52.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Program.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Program.cs",
-              "RelativeToolTip": "Biblioteca\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:09:58.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T23:54:46.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateBookController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Controllers\\CreateBookController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\CreateBookController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Controllers\\CreateBookController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\CreateBookController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:50:26.501Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABrAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACIAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T22:26:39.979Z",
+              "WhenOpened": "2025-03-05T20:35:18.785Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Login\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Views\\Login\\CreateUser.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Login\\CreateUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T02:31:20.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Sistema-de-Biblioteca\\Biblioteca\\Biblioteca\\Models\\LoginModel.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:12:02.345Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

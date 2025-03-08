@@ -9,7 +9,16 @@
 <div>
     <h4>CreateBookModel</h4>
     <hr />
-    <dl class="row">
+
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../../Home/Index">Home</a></li>
+            <li class="breadcrumb-item"><a href="../../CreateBook/Index">Books</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Details</li>
+        </ol>
+    </nav>
+
+    <dl class="row justify-content-center">
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.NomeLivro)
         </dt>
